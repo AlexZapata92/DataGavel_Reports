@@ -1,0 +1,3 @@
+639681
+Auth Code successfully entered.
+'Field is required' error message was present.
