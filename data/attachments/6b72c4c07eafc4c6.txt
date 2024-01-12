@@ -1,0 +1,1 @@
+Expected error found: Password is required

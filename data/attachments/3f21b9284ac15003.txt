@@ -1,0 +1,3 @@
+184153
+Auth Code successfully entered.
+'Field is required' error message was present.
